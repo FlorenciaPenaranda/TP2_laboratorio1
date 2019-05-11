@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1557258420 source:c:\users\fpenaranda\desktop\florutn\tp2\tp2_\arrayempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"arrayEmpleados.h"
+
+1557240557 eados.h"
+
+1557258420 c:\users\fpenaranda\desktop\florutn\tp2\tp2_\arrayempleados.h
+
+1557258420 source:c:\users\fpenaranda\desktop\florutn\tp2\tp2_\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmpleados.h"
+	"utn.h"
+
+1557242323 source:c:\users\fpenaranda\desktop\florutn\tp2\tp2_\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1557242323 
+
+1557240557 c:\users\fpenaranda\desktop\florutn\tp2\tp2_\utn.h
+	"arrayEmpleados.h"
+
+1557276130 source:/home/alumno/Descargas/TP2_-20190507T221040Z-001/TP2_/arrayEmpleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"arrayEmpleados.h"
+
+1557246162 /home/alumno/Descargas/TP2_-20190507T221040Z-001/TP2_/utn.h
+	"arrayEmpleados.h"
+
+1557268604 /home/alumno/Descargas/TP2_-20190507T221040Z-001/TP2_/arrayEmpleados.h
+
+1557275510 source:/home/alumno/Descargas/TP2_-20190507T221040Z-001/TP2_/main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmpleados.h"
+	"utn.h"
+
+1557272094 source:/home/alumno/Descargas/TP2_-20190507T221040Z-001/TP2_/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1557426943 source:c:\users\fpenaranda\desktop\florutn\tp2_v1\tp2_\arrayempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"arrayEmpleados.h"
+
+1557412605 c:\users\fpenaranda\desktop\florutn\tp2_v1\tp2_\utn.h
+	"arrayEmpleados.h"
+
+1557426943 c:\users\fpenaranda\desktop\florutn\tp2_v1\tp2_\arrayempleados.h
+
+1557426021 source:c:\users\fpenaranda\desktop\florutn\tp2_v1\tp2_\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmpleados.h"
+	"utn.h"
+
+1557413187 source:c:\users\fpenaranda\desktop\florutn\tp2_v1\tp2_\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1557548435 source:c:\users\franor srl\desktop\tp del laburo\tp2_-20190511t012940z-001\tp2_\arrayempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"arrayEmpleados.h"
+
+1557413696 c:\users\franor srl\desktop\tp del laburo\tp2_-20190511t012940z-001\tp2_\utn.h
+	"arrayEmpleados.h"
+
+1557549596 c:\users\franor srl\desktop\tp del laburo\tp2_-20190511t012940z-001\tp2_\arrayempleados.h
+
+1557548798 source:c:\users\franor srl\desktop\tp del laburo\tp2_-20190511t012940z-001\tp2_\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmpleados.h"
+	"utn.h"
+
+1557413696 source:c:\users\franor srl\desktop\tp del laburo\tp2_-20190511t012940z-001\tp2_\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
